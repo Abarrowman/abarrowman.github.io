@@ -56,6 +56,9 @@ aside {
 .no-padding {
   padding: 0;
 }
+.no-top-padding {
+  padding-top: 0;
+}
 .navbar-default {
   background-color: white;
   border-color: rgba(34, 34, 34, 0.05);
@@ -164,7 +167,6 @@ header .header-content .header-content-inner hr {
   margin: 30px auto;
 }
 header .header-content .header-content-inner p {
-  font-weight: 300;
   color: rgba(255, 255, 255, 0.7);
   font-size: 16px;
   margin-bottom: 50px;
