@@ -1,0 +1,3 @@
+[submodule "IDEA"]
+	path = IDEA
+	url = git@github.com:Abarrowman/IDEA.git
